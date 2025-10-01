@@ -3,7 +3,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_NAME": "SalamEX",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
-  "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56",
+  "VITE_ORDERLY_MAINNET_CHAINS": "900900900",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "",
@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@SalamDEX",
   "VITE_SEO_THEME_COLOR": "#008000",
   "VITE_SEO_KEYWORDS": "sharia dex, halal crypto, islamic defi, sharia compliant exchange, riba free trading, arab crypto, halal perpetuals, salam finance, muslim crypto, decentralized exchange, halal defi, islamic trading platform",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,ko,fr,es,nl",
+  "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "5",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
